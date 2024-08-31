@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a master's student in electrical and computer engineering (ECE) at UCLA, currently working in [Prof. Aydogen Ozcan's Lab](https://research.seas.ucla.edu/ozcan/). Pior to this, I graduated from [Duke Kunshan University](https://www.dukekunshan.edu.cn/about/welcome-to-duke-kunshan-university/) and Duke University (a dual-degree program) with majors in applied physics and materials science. I was fortunate to be advised by [Prof. Xiawa Wang](https://scholars.duke.edu/person/xiawa.wang) and [Prof. Kai Huang](https://scholars.duke.edu/person/kai.huang186).  
+Hello! I am a master's student in electrical and computer engineering (ECE) at UCLA, currently working in [Prof. Aydogen Ozcan's Lab](https://research.seas.ucla.edu/ozcan/). Pior to this, I graduated from [Duke Kunshan University (DKU)](https://www.dukekunshan.edu.cn/about/welcome-to-duke-kunshan-university/) and Duke University (a dual-degree program) with majors in applied physics and materials science. At DKU, I was fortunate to be advised by [Prof. Xiawa Wang](https://scholars.duke.edu/person/xiawa.wang) and [Prof. Kai Huang](https://scholars.duke.edu/person/kai.huang186).  
 
 ***I am actively seeking opportunities for a Fall 2025 PhD program, focusing on computational imaging and/or optical computing.*** 
 
