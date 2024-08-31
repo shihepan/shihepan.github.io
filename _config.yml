@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shihe Pan / Personal Homepage"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Shihe Pan"
 description              : &description "personal description"
