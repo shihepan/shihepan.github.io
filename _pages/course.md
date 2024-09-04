@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-I enjoy taking courses in different fields and discovering connections between them. My favoriate undergraduate course was **Quantum Mechanics**, and the concept of quantum entanglement was particularly fascinating. My favoriate graduate courses were **Deep Learning** and **Biophotonics**, and I am particularly interested in their intersections.
+I enjoy taking courses in different fields and discovering connections between them. My favoriate undergraduate course was **Quantum Mechanics**, in which the concept of quantum entanglement was particularly fascinating. My favoriate graduate courses were **Deep Learning** and **Biophotonics**, and I am particularly interested in their intersections.
 
 
 **Undergraduate Core Courses**:
@@ -40,7 +40,7 @@ I enjoy taking courses in different fields and discovering connections between t
 
 
 Besides taking courses myself, I am also passionate about sharing interesting knowledges with others. I have worked as a **TA** and **peer tutor** for several courses. Here are the courses I served as a TA/tutor for: General Physics I/II, Optics and Modern Physics. 
-<center><img src="/images/tutor.jpg" alt="Shihe Pan won Outstanding Peer Tutor Awards @ DKU" width="600"/></center>  
+<center><img src="/images/tutor.jpg" alt="Shihe Pan won Outstanding Peer Tutor Awards @ DKU" width="500"/></center>  
 Shihe Pan won Outstanding Peer Tutor Awards (AY 2020-2021), which acknowledges and rewards an undergraduate peer tutor who has gone above and beyond in assisting students with their academics. 
 
 
