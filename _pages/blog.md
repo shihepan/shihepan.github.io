@@ -13,7 +13,7 @@ I was the president of the DKU Table Tennis Club and also a member of the univer
 <center><img src="/images/tabletennis2.jpg" alt="Shihe Pan playing table tennis in a competition" width="400"/></center>  
 <center>I was playing table tennis in a competition.</center>
 <br/>
-<br/>
+
 <center><img src="/images/tabletennis.jpg" alt="Shihe Pan won DKU Athletics Awards" width="400"/></center>  
 <center>I won DKU Athletics Awards just before graduation.</center>
 
