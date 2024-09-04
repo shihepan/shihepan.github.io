@@ -15,8 +15,8 @@ As an **undergraduate**, my research spanned photonic crystals, granular materia
 
 
 In **graduate** school, I found my biggest research interest and focused on computational imaging and free-space optical computing, working on projects aimed at enhancing imaging systems and optimizing algorithms for real-world applications, such as super-resolution and road line detection. Projects included:
-- [Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder](#superresolution-imaging-via-codesign-of-optical-encoder-and-digital-decoder)
-- [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycvenabled-lane-line-detection-for-autonomous-driving)
+- [Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder](#super-resolution-imaging-via-codesign-of-optical-encoder-and-digital-decoder)
+- [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycv-enabled-lane-line-detection-for-autonomous-driving)
 
 
 
