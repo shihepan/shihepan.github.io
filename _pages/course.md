@@ -13,10 +13,10 @@ I enjoy taking courses in different fields and discovering connections between t
 
 | Physics                                 | Materials Science                                        | Computer Science & Data Science |
 | --------------------------------------- | -----------------                                        | ------------------------------- |
-| Optics and Modern Physics               | Electronic, Optical, and Magnetic Properties of Materials | Introduction to Data Science and Statistics                 |
-| Electricity and Magnetism               | Materials Synthesis and Characterization (Lab)           | Introduction to Programming and Data Structure         |
-| Quantum Mechanics                       | Mechanical Properties of Materials                       | Computer Organization and Architecture         |
-| Classical Mechanics                     |                                                          | Computer Vision         |
+| Optics and Modern Physics               | Introduction to Materials Science | Introduction to Data Science and Statistics                 |
+| Electricity and Magnetism               | Electronic, Optical, and Magnetic Properties of Materials           | Introduction to Programming and Data Structure         |
+| Quantum Mechanics                       | Materials Synthesis and Characterization (Lab)                     | Computer Organization and Architecture         |
+| Classical Mechanics                     | Mechanical Properties of Materials                                                           | Computer Vision         |
 | Thermal and Statistical Physics         |                                                          |         |
 | Advanced Physics Laboratory and Seminar |                                                          |      |
 
@@ -42,7 +42,7 @@ I enjoy taking courses in different fields and discovering connections between t
 Besides taking courses myself, I am also passionate about sharing interesting knowledges with others. I have worked as a **TA** and **peer tutor** for several courses. Here are the courses I served as a TA/tutor for: General Physics I/II, Optics and Modern Physics. 
 <center><img src="/images/tutor.jpg" alt="Shihe Pan won Outstanding Peer Tutor Awards @ DKU" width="500"/></center>  
 
-Shihe Pan won [Outstanding Peer Tutor Awards](https://academic-advising.dukekunshan.edu.cn/outstanding-peer-tutor-of-ay-2020-2021/) (AY 2020-2021), which acknowledges and rewards an undergraduate peer tutor who has gone above and beyond in assisting students with their academics.
+I won [Outstanding Peer Tutor Awards](https://academic-advising.dukekunshan.edu.cn/outstanding-peer-tutor-of-ay-2020-2021/) (AY 2020-2021), which acknowledges and rewards an undergraduate peer tutor who has gone above and beyond in assisting students with their academics.
 
 
 
