@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-*My ultimate academic goal is to make contributions to the developments of fast, compact, and energy-efficient all-optical image/data processing systems.*
+*My (current) ultimate academic goal is to make contributions to the developments of fast, compact, and energy-efficient all-optical image/data processing systems.*
 
 As an **undergraduate**, my research spanned photonic crystals, granular materials, image processing, and robotics, where I applied advanced methodologies to solve problems in thermal isolation, biological systems, and automation. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
 - [Omnidirectional Reflector for Infrared Radiation Barrier](#omnidirectional-reflector-for-infrared-radiation-barrier)
