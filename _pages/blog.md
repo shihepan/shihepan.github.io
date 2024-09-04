@@ -15,6 +15,6 @@ I was the president of the DKU Table Tennis Club and also a member of the univer
 <br/>
 
 <center><img src="/images/tabletennis.jpg" alt="Shihe Pan won DKU Athletics Awards" width="400"/></center>  
-<center>I won <a href="https://athletics.dukekunshan.edu.cn/latest-in-athletics/dku-athletics-awards-celebrate-year-of-champions/">DKU Athletics Awards</a> just before graduation.</center>
+<center>I received <a href="https://athletics.dukekunshan.edu.cn/latest-in-athletics/dku-athletics-awards-celebrate-year-of-champions/">DKU Athletics Awards</a> just before graduation.</center>
 
 
