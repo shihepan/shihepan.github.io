@@ -6,7 +6,14 @@ author_profile: true
 ---
 {% include base_path %}
 
-This page is under construction. Coming soon!
+*This page is under construction.*
+
+As an **undergraduate**, my research spanned photonic crystals, granular materials, image processing, and robotics, where I applied advanced methodologies to solve problems in thermal isolation, biological systems, and automation. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
+- [Omnidirectional Reflector for Infrared Radiation Barrier](#omnidirectional-reflector-for-infrared-radiation-barrier)
+- [Root Growth Investigation with X‑ray Computed Tomography](#root-growth-investigation-with-x-ray-computed-tomography)
+- [Automated Grasping System Using Object Recognition and Depth Sensing](automated-grasping-system-using-object-recognition-and-depth-sensing)
+
+
 
 A major theme of my research is developing both software and hardware for high-throughput computational 3D imaging techniques. My interests span the broadest, most inclusive interpretation of "3D", ranging from dense 3D tomography to sparse 3D topography, from the microscale to the mesoscale and macroscale. Some projects include:
 - [High-speed volumetric imaging with 2π Fourier light field tomography](#high-speed-volumetric-imaging-with-2π-fourier-light-field-tomography)
@@ -14,6 +21,14 @@ A major theme of my research is developing both software and hardware for high-t
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
 - [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
+
+
+
+
+## Omnidirectional Reflector for Infrared Radiation Barrier
+## Root Growth Investigation with X‑ray Computed Tomography
+## Automated Grasping System Using Object Recognition and Depth Sensing
+
 
 ## High-speed volumetric imaging with 2π Fourier light field tomography
 We developed a Fourier light field system that can capture synchronized video from perspectives spanning 2pi steradians across 10s of cubic mms, enabling multimodal volumetric video at up to 120 fps.
