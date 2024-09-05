@@ -14,4 +14,13 @@ As a prospective PhD student, my current research interests lie in both `computa
 
 In *computational imaging*, I am particularly interested in co-designing novel imaging systems (especially hardwares) with state-of-the-art deep neural networks, targeting applications in biomedical engineering (e.g., OCT, microscopy) and/or computer vision (e.g., unconventional cameras). In *optical computing*, I am currently more familiar with its free-space paradigm (e.g., D2NN) and see its potential for advancing computational imaging. But I am also open to exploring on-chip optical computing to build a real "optical computer", where my background in photonics, materials science, and solid-state physics may be applied effectively.
 
+
 During my undergraduate studies, I conducted several interdisciplinary projects across a broad range of fields, including nanophotonics, electromagnetism, computer vision, botany, granular materials and robotics. I have always believed that this broad exploration is a valuable foundation for my future research journey. Some of these works have already been published or in the process of publishing. Please refer to [Research](https://shihepan.github.io/research/) for more details.
+
+
+<br>
+
+<center><img src="/images/DKU.png" alt="DKU Campus, shot on 2023" width="500"/></center>  
+<center>DKU Campus, shot on 2023</center>
+
+
