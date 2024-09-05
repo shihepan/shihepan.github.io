@@ -19,28 +19,6 @@ In **graduate** school, I found my biggest research interest and focused on comp
 - [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycv-enabled-lane-line-detection-for-autonomous-driving)
 
 
-<br>
-
-## Omnidirectional Reflector for Infrared Radiation Barrier
-<br>
-
-## Root Growth Investigation with X‑ray Computed Tomography
-<br>
-
-## Automated Grasping System Using Object Recognition and Depth Sensing
-
-Robot arms can be useful in experiments, especially for those that require repetitive operations, such as object placement and retrieval. During the summer of my 1st year of undergraduate studies, I spent two months working on a 7-axis robotic arm system, enabling object recognition, grasping, and placement on a flat platform. We used the Hough transform and particle filter to recognize objects in the video steam from a general camera, and through camera calibration, we 'informed' the robotic arm of the object's relative spatial coordinates to achieve accurate grasping. Though simple, this project opened the door to engineering for me.
-
-
-<center><img src="/images/robotimage.jpg" alt="robot arm and camera calibration" width="500"/></center>
-
-Our robotic arm system allows for real-time object recognition, grasping, and placement with the assistance of a single camera:
-<center>
-<video width="500" controls>
-  <source src="/images/robotvideo.mp4" type="video/mp4">
-</video>
-</center>
-
 
 <br>
 
@@ -49,6 +27,35 @@ Our robotic arm system allows for real-time object recognition, grasping, and pl
 <br>
 
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
+
+<br>
+
+## Omnidirectional Reflector for Infrared Radiation Barrier
+<br>
+
+
+
+## Root Growth Investigation with X‑ray Computed Tomography
+Exploring the relationship between root and soil has significance in environmental protection. In this signature work (thesis) project, we grew plants (e.g., Arabidopsis) in a granular medium composed of spherical particles and used X‐ray computed tomography (CT) for visualization without destroying the local environment. Besides identifying the optimal parameters for CT measurement, the first phase of the work involved processing CT tomograms with computer vision algorithms to extract centroids and positions of granular particles, along with constructing 3D surface models of the roots. Next, we generated and analyzed the 3D (Set) Voronoi diagrams of particles near the roots, both graphically and numerically, to decipher the interactions between soil particles and plant roots on a bio-mechanical level. 
+
+<center><img src="/images/rootgrowth.png" alt="poster" width="600"/></center>
+<center><img src="/images/sp504_Pan_2023_Huang_SW Poster.jpg" alt="poster" width="400"/></center>
+
+
+
+<br>
+
+## Automated Grasping System Using Object Recognition and Depth Sensing
+Robot arms can be useful in experiments, especially for those that require repetitive operations, such as object placement and retrieval. During the summer of my 1st year of undergraduate studies, I spent two months working on a 7-axis robotic arm system, enabling object recognition, grasping, and placement on a flat platform. We used the Hough transform and particle filter to recognize objects in the video steam from a general camera, and through camera calibration, we 'informed' the robotic arm of the object's relative spatial coordinates to achieve accurate grasping. Though simple, this project opened the door to engineering for me.
+
+<center><img src="/images/robotimage.jpg" alt="robot arm and camera calibration" width="600"/></center>
+
+Our robotic arm system allows for real-time object recognition, grasping, and placement with the assistance of a single camera:
+<center>
+<video width="600" controls>
+  <source src="/images/robotvideo.mp4" type="video/mp4">
+</video>
+</center>
 
 <br>
 
