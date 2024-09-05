@@ -27,8 +27,19 @@ In **graduate** school, I found my biggest research interest and focused on comp
 <br>
 
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
+This was an in-class project for UCLA ECE 279AS - Physics, AI, and Algorithmic Imaging, conducted in collaboration with Ash Aggarwal and supervised by Prof. Bahram Jalali. Building on the idea that the Phase Stretch Transform (PST) algorithm from PhyCV is highly effective for edge detection, we applied it as a preprocessing step to improve deep neural network performance in road line detection for autonomous vehicles. We retrained several models with this preprocessing step and performed a comparative analysis of benchmark models with and without PST preprocessing, focusing on accuracy, robustness, generalizability, and model efficiency. 
+
+The experiment preliminarily demonstrated that preprocessing with PhyCV algorithms is promising in its ability to enhance lane lines and bring out details in low-light environments: 
+
+<center><img src="/images/PhyCV.png" alt="phycv result" width="800"/></center>
 
 <br>
+
+**Relevent Sources**
+[GitHub](https://github.com/JalaliLabUCLA/2024_279AS_Project3_Lane_Detection), [Presentation Slide](https://duke.box.com/v/shihepanphycv). 
+
+<br>
+
 
 ## Omnidirectional Reflector for Infrared Radiation Barrier
 <br>
@@ -40,24 +51,22 @@ Exploring the relationship between root and soil has significance in environment
 
 <center><img src="/images/rootgrowth.png" alt="poster" width="800"/></center>
 
-
 <br>
 We ultilized a series of image processing algorithms (e.g, erosion, binarization, denoising) to extract particles and roots in 3D X-ray tomograms. We also conducted structural analysis via Voronoi diagrams, packing fractions, and pair correlation functions. 
 
 <div style="display: flex; justify-content: space-around; align-items: center">
     <img src="/images/gif1.gif" alt="GIF 1" style="width: 30%; height: auto;">
-    <img src="/images/gif2.gif" alt="GIF 2" style="width: 20%; height: 20%;">
+    <img src="/images/gif2.gif" alt="GIF 2" style="width: 30%; height: 30%;">
 </div>
 
 <br>
 
-
 **Relevent Sources**
 
-[thesis](https://duke.box.com/v/shihepanthesis), [report](https://duke.box.com/v/shihepansummerreport), [poster](https://duke.box.com/v/shihepanposter), 5-minute [presentation](https://duke.box.com/v/shihepanpresentation).
-
+[Thesis](https://duke.box.com/v/shihepanthesis), [Report](https://duke.box.com/v/shihepansummerreport), [Poster](https://duke.box.com/v/shihepanposter), 5-minute [Presentation](https://duke.box.com/v/shihepanpresentation).
 
 <br>
+
 ## Automated Grasping System Using Object Recognition and Depth Sensing
 Robot arms can be useful in experiments, especially for those that require repetitive operations, such as object placement and retrieval. During the summer of my 1st year of undergraduate studies, I spent two months working on a 7-axis robotic arm system, enabling object recognition, grasping, and placement on a flat platform. We used the Hough transform and particle filter to recognize objects in the video steam from a general camera, and through camera calibration, we 'informed' the robotic arm of the object's relative spatial coordinates to achieve accurate grasping. Though simple, this project opened the door to engineering for me.
 
@@ -70,33 +79,7 @@ Our robotic arm system allows for real-time object recognition, grasping, and pl
 </video>
 </center>
 
-<br>
 
-## High-throughput computational 3D imaging with camera arrays
-We present 3D-RAPID (<ins>3D</ins> <ins>R</ins>econstruction with an <ins>A</ins>rray-based <ins>P</ins>arallelized <ins>I</ins>maging <ins>D</ins>evice), a computational 3D imaging technique based on an array of 12-megapixel cameras capable of imaging at extremely high spatiotemporal throughts (>5 gigapixels/sec). 3D-RAPID features a spatiotemporally scalable, physics/self-supervised algorithm that enables simultaneous 3D reconstruction and stitching of arbitrarily many cameras across arbitrarily many temporal frames.
-<center><img src="/images/3d-rapid.jpg" alt="3D-RAPID" width="900"/></center>
-
-Our high spatiotemporal throughputs (>5 GP/sec) enable high-resolution 3D imaging of freely behaving organisms over wide FOVs (>130 cm<sup>2</sup>) at high speed (up to 230 fps):
-<center>
-<video width="700" controls>
-  <source src="/images/zebrafish_60fps_tracked.mp4" type="video/mp4">
-</video>
-</center>
-The left panel shows the zoomed-out view of the entire arena of freely swimming zebrafish; the right panels show the zoomed-in individually tracked zebrafish. The video alternates between photometric (RGB) and 3D height information.
-<center>
-<video width="700" controls>
-  <source src="/images/S12_ants_230fps_compressed.mp4" type="video/mp4">
-</video>
-</center>
-Freely moving harvester ants (left: photometric frame, right: 3D height map).
-
-For more videos, see the supplementary materials of the accompanying publication below. See also [https://gigazoom.rc.duke.edu/](https://gigazoom.rc.duke.edu/) for interactive views of full video frames.
-
-**Relevant publications**
-- KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* (2023)
-
-**Code**  
-- [https://github.com/kevinczhou/3D-RAPID](https://github.com/kevinczhou/3D-RAPID)  
 
 
 
