@@ -44,7 +44,7 @@ Exploring the relationship between root and soil has significance in environment
 <br>
 We ultilized a series of image processing algorithms (e.g, erosion, binarization, denoising) to extract particles and roots in 3D X-ray tomograms. We also conducted structural analysis via Voronoi diagrams, packing fractions, and pair correlation functions. 
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="/images/gif1.gif" alt="GIF 1" style="width: 30%; height: auto;">
     <img src="/images/gif2.gif" alt="GIF 2" style="width: 20%; height: 20%;">
 </div>
