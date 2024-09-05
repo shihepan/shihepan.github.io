@@ -42,8 +42,20 @@ The experiment preliminarily demonstrated that preprocessing with PhyCV algorith
 
 
 ## Omnidirectional Reflector for Infrared Radiation Barrier
-<br>
+This study develops novel optical devices and materials for high-temperature thermal insulation, specifically targeting at small-scale radioisotope thermophotovoltaic (RTPV) systems used in extra-solar space exploration. The thermal insulation component is critical in such systems. When conventional multilayer insulation (MLI) designs proved inadequate, we proposed the use of omnidirectional reflectors (ODRs) as an innovative solution. The ODR developed in this study utilizes the complete photonic bandgap in 1D photonic crystals, offering a remarkably thin material with superior shielding performance across a huge temperature gradient (1000 °C across 21 μm). The design combines insights from photonics and thermodynamics, offering potential advancements in thermal management for NASA spacecraft, nuclear systems, and cryogenics.
 
+
+<center><img src="/images/TPV.png" alt="poster" width="800"/></center>
+<center>Left: Schematics of a typical TPV system (source: Sakakibara et al., Journal of Photonics for Energy, 2019); Right: Complete photonic band in 1D photonic crystal (source: Joannopoulos et al., Photonic Crystals: Molding the Flow of Light, 2008) </center>
+
+**Relevent Sources**
+(1) Zhou, Xiaoqi, Dingning Li, Junjie Zhang, Xin Wang, Peter Fisher, Yixin Sun, Shihe Pan, Shipei Zhang, Lin Qiu, and Xiawa Wang. 2024. [“Modeling and Implementation of Multilayer Insulation for Small-Scale Ultrahigh Temperature Systems.”](https://doi.org/10.1016/j.applthermaleng.2024.122838) Applied Thermal Engineering 245 (May):122838.
+
+（2）Pan, Shihe, Yixin Sun, Xiaoquan Liu, Xiaoqi Zhou, Shipei Zhang, and Xiawa Wang. “Design and Optimization of Infrared Radiation 
+Barrier Using Omnidirectional Reflectors.” (*In peer review*)
+
+
+<br>
 
 
 ## Root Growth Investigation with X‑ray Computed Tomography
