@@ -38,9 +38,13 @@ In **graduate** school, I found my biggest research interest and focused on comp
 ## Root Growth Investigation with X‑ray Computed Tomography
 Exploring the relationship between root and soil has significance in environmental protection. In this signature work (thesis) project, we grew plants (e.g., Arabidopsis) in a granular medium composed of spherical particles and used X‐ray computed tomography (CT) for visualization without destroying the local environment. Besides identifying the optimal parameters for CT measurement, the first phase of the work involved processing CT tomograms with computer vision algorithms to extract centroids and positions of granular particles, along with constructing 3D surface models of the roots. Next, we generated and analyzed the 3D (Set) Voronoi diagrams of particles near the roots, both graphically and numerically, to decipher the interactions between soil particles and plant roots on a bio-mechanical level. 
 
-<center><img src="/images/rootgrowth.png" alt="poster" width="600"/></center>
-<center><img src="/images/sp504_Pan_2023_Huang_SW Poster.jpg" alt="poster" width="400"/></center>
+<center><img src="/images/rootgrowth.png" alt="poster" width="800"/></center>
 
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="/images/gif1.gif" alt="GIF 1" style="width: 45%; height: auto;">
+    <img src="/images/gif2.gif" alt="GIF 2" style="width: 45%; height: auto;">
+</div>
 
 
 <br>
