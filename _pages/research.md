@@ -19,20 +19,38 @@ In **graduate** school, I found my biggest research interest and focused on comp
 - [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycv-enabled-lane-line-detection-for-autonomous-driving)
 
 
+<br>
 
 ## Omnidirectional Reflector for Infrared Radiation Barrier
+<br>
 
 ## Root Growth Investigation with X‑ray Computed Tomography
+<br>
 
 ## Automated Grasping System Using Object Recognition and Depth Sensing
 
+Robot arms can be useful in experiments, especially for those that require repetitive operations, such as object placement and retrieval. During the summer of my 1st year of undergraduate studies, I spent two months working on a 7-axis robotic arm system, enabling object recognition, grasping, and placement on a flat platform. We used the Hough transform and particle filter to recognize objects in the video steam from a general camera, and through camera calibration, we 'informed' the robotic arm of the object's relative spatial coordinates to achieve accurate grasping. Though simple, this project opened the door to engineering for me.
 
+
+<center><img src="/images/robotimage.jpg" alt="robot arm and camera calibration" width="500"/></center>
+
+Our robotic arm system allows for real-time object recognition, grasping, and placement with the assistance of a single camera:
+<center>
+<video width="500" controls>
+  <source src="/images/robotvideo.mp4" type="video/mp4">
+</video>
+</center>
+
+
+<br>
 
 ## Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder
 
+<br>
+
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
 
-
+<br>
 
 ## High-throughput computational 3D imaging with camera arrays
 We present 3D-RAPID (<ins>3D</ins> <ins>R</ins>econstruction with an <ins>A</ins>rray-based <ins>P</ins>arallelized <ins>I</ins>maging <ins>D</ins>evice), a computational 3D imaging technique based on an array of 12-megapixel cameras capable of imaging at extremely high spatiotemporal throughts (>5 gigapixels/sec). 3D-RAPID features a spatiotemporally scalable, physics/self-supervised algorithm that enables simultaneous 3D reconstruction and stitching of arbitrarily many cameras across arbitrarily many temporal frames.
