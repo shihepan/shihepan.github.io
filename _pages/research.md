@@ -8,7 +8,7 @@ author_profile: true
 
 *My (current) academic goal is to make contributions to the developments of fast, compact, and energy-efficient all-optical image/data processing systems.*
 
-As an **undergraduate**, my research spanned photonic crystals, granular materials, image processing, and robotics, where I applied advanced methodologies to solve problems in thermal isolation, biological systems, and automation. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
+During **undergraduate** studies, my research spanned photonic crystals, granular materials, image processing, and robotics, where I applied advanced methodologies to solve problems in thermal isolation, biological systems, and automation. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
 - [Omnidirectional Reflector for Infrared Radiation Barrier](#omnidirectional-reflector-for-infrared-radiation-barrier)
 - [Root Growth Investigation with X‑ray Computed Tomography](#root-growth-investigation-with-xray-computed-tomography)
 - [Automated Grasping System Using Object Recognition and Depth Sensing](#automated-grasping-system-using-object-recognition-and-depth-sensing)
