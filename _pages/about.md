@@ -21,6 +21,6 @@ During my undergraduate studies, I conducted several interdisciplinary projects 
 <br>
 
 <center><img src="/images/DKU.jpg" alt="DKU Campus, shot on 2023" width="500"/></center>  
-<center>DKU Campus, shot on 2023</center>
+<center>DKU campus, shot on 2023</center>
 
 
