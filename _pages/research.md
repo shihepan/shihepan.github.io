@@ -87,6 +87,8 @@ We ultilized a series of image processing algorithms (e.g, erosion, binarization
 [Thesis](https://duke.box.com/v/shihepanthesis), [Report](https://duke.box.com/v/shihepansummerreport), [Poster](https://duke.box.com/v/shihepanposter), 5-minute [Presentation](https://duke.box.com/v/shihepanpresentation).
 
 [APS March Meeting 2024](https://meetings.aps.org/Meeting/MAR24/Session/N00.155)
+
+
 <br>
 
 ## Automated Grasping System Using Object Recognition and Depth Sensing
