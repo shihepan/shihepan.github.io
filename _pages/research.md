@@ -23,9 +23,11 @@ In **graduate** school, I found my biggest research interest and focused on comp
 <br>
 
 ## Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder
+*In Progress* 
 
+We aim to co-design a D2NN-based optical encoder integrated with digital neural network decoders to achieve image super-resolution for limited-size sensors. 
 
-
+Interesting results coming soon...
 
 <br>
 
@@ -58,7 +60,7 @@ This study develops novel optical devices and materials for high-temperature the
 
 (1) Zhou, Xiaoqi, Dingning Li, Junjie Zhang, Xin Wang, Peter Fisher, Yixin Sun, Shihe Pan, Shipei Zhang, Lin Qiu, and Xiawa Wang. 2024. [“Modeling and Implementation of Multilayer Insulation for Small-Scale Ultrahigh Temperature Systems.”](https://doi.org/10.1016/j.applthermaleng.2024.122838) Applied Thermal Engineering 245 (May):122838.
 
-（2）Pan, Shihe, Yixin Sun, Xiaoquan Liu, Xiaoqi Zhou, Shipei Zhang, and Xiawa Wang. “Design and Optimization of Infrared Radiation 
+(2) Pan, Shihe, Yixin Sun, Xiaoquan Liu, Xiaoqi Zhou, Shipei Zhang, and Xiawa Wang. “Design and Optimization of Infrared Radiation 
 Barrier Using Omnidirectional Reflectors.” (*In peer review*)
 
 
