@@ -24,6 +24,9 @@ In **graduate** school, I found my biggest research interest and focused on comp
 
 ## Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder
 
+
+
+
 <br>
 
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
@@ -36,6 +39,7 @@ The experiment preliminarily demonstrated that preprocessing with PhyCV algorith
 <br>
 
 **Relevent Sources**
+
 [GitHub](https://github.com/JalaliLabUCLA/2024_279AS_Project3_Lane_Detection), [Presentation](https://duke.box.com/v/shihepanphycv). 
 
 <br>
@@ -48,7 +52,10 @@ This study develops novel optical devices and materials for high-temperature the
 <center><img src="/images/TPV.png" alt="poster" width="800"/></center>
 <center>Left: Schematics of a typical TPV system (source: Sakakibara et al., Journal of Photonics for Energy, 2019); Right: Complete photonic band in 1D photonic crystal (source: Joannopoulos et al., Photonic Crystals: Molding the Flow of Light, 2008) </center>
 
+<br>
+
 **Relevent Sources**
+
 (1) Zhou, Xiaoqi, Dingning Li, Junjie Zhang, Xin Wang, Peter Fisher, Yixin Sun, Shihe Pan, Shipei Zhang, Lin Qiu, and Xiawa Wang. 2024. [“Modeling and Implementation of Multilayer Insulation for Small-Scale Ultrahigh Temperature Systems.”](https://doi.org/10.1016/j.applthermaleng.2024.122838) Applied Thermal Engineering 245 (May):122838.
 
 （2）Pan, Shihe, Yixin Sun, Xiaoquan Liu, Xiaoqi Zhou, Shipei Zhang, and Xiawa Wang. “Design and Optimization of Infrared Radiation 
@@ -77,6 +84,7 @@ We ultilized a series of image processing algorithms (e.g, erosion, binarization
 
 [Thesis](https://duke.box.com/v/shihepanthesis), [Report](https://duke.box.com/v/shihepansummerreport), [Poster](https://duke.box.com/v/shihepanposter), 5-minute [Presentation](https://duke.box.com/v/shihepanpresentation).
 
+[APS March Meeting 2024](https://meetings.aps.org/Meeting/MAR24/Session/N00.155)
 <br>
 
 ## Automated Grasping System Using Object Recognition and Depth Sensing
