@@ -27,7 +27,7 @@ In **graduate** school, I found my biggest research interest and focused on comp
 <br>
 
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
-This was an in-class project for UCLA ECE 279AS - Physics, AI, and Algorithmic Imaging, conducted in collaboration with Ash Aggarwal and supervised by Prof. Bahram Jalali. Building on the idea that the Phase Stretch Transform (PST) algorithm from PhyCV is highly effective for edge detection, we applied it as a preprocessing step to improve deep neural network performance in road line detection for autonomous vehicles. We retrained several models with this preprocessing step and performed a comparative analysis of benchmark models with and without PST preprocessing, focusing on accuracy, robustness, generalizability, and model efficiency. 
+This was an in-class project for UCLA ECE 279AS - Physics, AI, and Algorithmic Imaging, conducted in collaboration with Ash Aggarwal and supervised by Prof. Bahram Jalali. Building on the idea that the [Phase Stretch Transform (PST)](https://en.wikipedia.org/wiki/Phase_stretch_transform) algorithm from [PhyCV](https://github.com/JalaliLabUCLA/phycv) is highly effective for edge detection, we applied it as a preprocessing step to improve deep neural network performance in road line detection for autonomous vehicles. We retrained several models with this preprocessing step and performed a comparative analysis of benchmark models with and without PST preprocessing, focusing on accuracy, robustness, generalizability, and model efficiency. 
 
 The experiment preliminarily demonstrated that preprocessing with PhyCV algorithms is promising in its ability to enhance lane lines and bring out details in low-light environments: 
 
@@ -36,7 +36,7 @@ The experiment preliminarily demonstrated that preprocessing with PhyCV algorith
 <br>
 
 **Relevent Sources**
-[GitHub](https://github.com/JalaliLabUCLA/2024_279AS_Project3_Lane_Detection), [Presentation Slide](https://duke.box.com/v/shihepanphycv). 
+[GitHub](https://github.com/JalaliLabUCLA/2024_279AS_Project3_Lane_Detection), [Presentation](https://duke.box.com/v/shihepanphycv). 
 
 <br>
 
