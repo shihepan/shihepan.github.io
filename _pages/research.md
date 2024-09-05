@@ -46,12 +46,15 @@ We ultilized a series of image processing algorithms (e.g, erosion, binarization
 
 <div style="display: flex; justify-content: space-around;">
     <img src="/images/gif1.gif" alt="GIF 1" style="width: 30%; height: auto;">
-    <img src="/images/gif2.gif" alt="GIF 2" style="width: 20%; height: auto;">
+    <img src="/images/gif2.gif" alt="GIF 2" style="width: 20%; height: 20%;">
 </div>
-
 
 <br>
 
+See [thesis](https://duke.box.com/v/shihepanthesis), [report](https://duke.box.com/v/shihepansummerreport), [poster](https://duke.box.com/v/shihepanposter), and 5-minute [presentation](https://duke.box.com/v/shihepanpresentation) for more details. 
+
+
+<br>
 ## Automated Grasping System Using Object Recognition and Depth Sensing
 Robot arms can be useful in experiments, especially for those that require repetitive operations, such as object placement and retrieval. During the summer of my 1st year of undergraduate studies, I spent two months working on a 7-axis robotic arm system, enabling object recognition, grasping, and placement on a flat platform. We used the Hough transform and particle filter to recognize objects in the video steam from a general camera, and through camera calibration, we 'informed' the robotic arm of the object's relative spatial coordinates to achieve accurate grasping. Though simple, this project opened the door to engineering for me.
 
