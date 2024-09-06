@@ -51,7 +51,7 @@ This study develops novel optical devices and materials for high-temperature the
 
 
 <center><img src="/images/TPV.png" alt="poster" width="800"/></center>
-<center>Left: Schematics of a typical TPV system (source: Sakakibara et al., Journal of Photonics for Energy, 2019); Right: Complete photonic band in 1D photonic crystal (source: Joannopoulos et al., Photonic Crystals: Molding the Flow of Light, 2008) </center>
+<center>Left: Schematics of a typical TPV system (source: Sakakibara et al., Journal of Photonics for Energy, 2019); Right: Complete photonic band in 1D photonic crystals (source: Joannopoulos et al., Photonic Crystals: Molding the Flow of Light, 2008) </center>
 
 <br>
 
