@@ -25,11 +25,7 @@ In **graduate** school, I found my biggest research interest and focused on comp
 ## Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder
 *In Progress* 
 
-We aim to co-design a [D2NN](https://www.science.org/doi/full/10.1126/science.aat8084)-based optical encoder integrated with digital neural network decoders to achieve image super-resolution for sensors with limited pixel number. 
-
-We optimize the synergy between optical encoding and digital decoding process through deep optics framework to enhance
-resolution beyond the native capacity of image sensors.
-
+We aim to co-design a [D2NN](https://www.science.org/doi/full/10.1126/science.aat8084)-based optical encoder integrated with digital neural network decoders to achieve image super-resolution for sensors with limited pixel number. We optimize the synergy between optical encoding and digital decoding process through deep optics framework to enhance resolution beyond the native capacity of image sensors.
 
 <br>
 
