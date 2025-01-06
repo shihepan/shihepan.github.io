@@ -28,12 +28,12 @@ I enjoy taking courses in different fields and discovering connections between t
 | Electrical and Computer Engineering    | Biomedical Engineering              | Mechanical Engineering          | Self-Learning                     |
 | ------------------------------------------- | ---------------------------------------- | ------------------------------------ | --------------------------------- |
 | Neural Network and Deep Learning            | Biophotonics                             | Appiled Optics                       | Computer Vision (Stanford CS231n) |
-| Advanced Neural Network and Deep Learning   | Optical Microscopy and Imaging (ongoing) | Radiation Heat Transfer              | Computational Imaging             |
-| Physics, AI, and Algorithmic Imaging        |                                          | Nanoscience and Technology (ongoing) |                                   |
+| Advanced Neural Network and Deep Learning   | Optical Microscopy and Imaging (audit)   | Radiation Heat Transfer              | Computational Imaging             |
+| Physics, AI, and Algorithmic Imaging        |                                          |                                      |                                   |
 | Nonlinear Photonics                         |                                          |                                      |                                   |
 | Physics of Semiconductor Device             |                                          |                                      |                                   |
-| Solid-State Electronics (ongoing)           |                                          |                                      |                                   |
-| Applied Quantum Mechanics (ongoing)         |                                          |                                      |                                   |
+| Solid-State Electronics                     |                                          |                                      |                                   |
+| Applied Quantum Mechanics                   |                                          |                                      |                                   |
 | Analog Integrated Circuit Design (audit)    |                                          |                                      |                                   |
 | Design of VLSI Circuits and Systems (audit) |                                          |                                      |                                   |
 
