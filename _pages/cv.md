@@ -11,4 +11,4 @@ redirect_from:
 
 Please find the lastest version of my [CV](https://duke.box.com/v/shihepancvcv). 
 
-(last updated: Sept. 24, 2024)
+(last updated: Jan. 20, 2025)
