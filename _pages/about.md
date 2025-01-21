@@ -10,12 +10,12 @@ Hello! I am a master's student in Electrical and Computer Engineering (ECE) at U
 
 ***I am actively seeking opportunities for a Fall 2025 PhD program, focusing on computational imaging and/or optical computing.*** 
 
-As a prospective PhD student, my research interests lie in both `computational imaging/optics` and `optical/photonic computing`. I first came across these fields two years ago during my graduate school admission interview, when I was still uncertain about which research area to pursue. A year of extensive exploration has now solidified my focus, and I am passionate about the future of these two fields!
+As a prospective PhD student, my research interests lie in both `computational imaging/optics` and `optical/photonic computing`. I first came across these fields two years ago during my graduate school admission interview, when I was still uncertain about which research area to pursue. A year of extensive exploration has now solidified my interest, and I am passionate about the future of these two fields!
 
-In *computational imaging*, I am interested in co-designing novel optical systems with advanced algorithms, with a special focus on  biomedical applications (e.g., OCT, multiphoton microscopy, light field tomography, etc). In *optical computing*, I am currently more familiar with its free-space paradigm (e.g., D2NN) and see its potential for advancing computational imaging. But I am also open to exploring on-chip optical computing to build a real "optical computer", where my background in photonics, materials science, and solid-state physics may be applied effectively.
+In *computational imaging*, I am interested in co-designing novel optical systems with advanced algorithms, with a special focus on  biomedical applications (e.g., OCT, multiphoton microscopy, light field tomography, etc). In *optical computing*, I am currently more familiar with its free-space paradigm (e.g., D2NN) and see its potential for advancing computational imaging. But I am also open to exploring integrated photonic processors to build a real "optical computer", where my background in photonics, materials science, and solid-state physics may be applied effectively.
 
 
-During my undergraduate studies, I conducted research projects across a broad range of fields, including nanophotonics, computer vision, and robotics. I always believe that this broad exploration is a valuable experience for my future research. Some of these works have been published or in the process of publishing. Please refer to [Research](https://shihepan.github.io/research/) for more details.
+During my undergraduate studies, I conducted several research projects across a broad range of fields, including nanophotonics, computer vision, and robotics. I believe this broad exploration is a valuable experience for my future research. Some of these works have been published or in the process of publishing. Please refer to [Research](https://shihepan.github.io/research/) for more details.
 
 
 <br>
