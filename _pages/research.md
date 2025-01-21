@@ -14,7 +14,7 @@ During **undergraduate** studies, my research spanned photonic crystals, image p
 - [Automated Grasping System Using Object Recognition and Depth Sensing](#automated-grasping-system-using-object-recognition-and-depth-sensing)
 
 
-In **graduate** school, my research focused on computational imaging and free-space optical computing. I worked on projects aimed at enhancing optical systems and imaging processing algorithms, such as super-resolution and road line detection. Projects included:
+In **graduate** school, my research focused on computational imaging and free-space optical computing. I worked on projects aimed at enhancing optical systems and imaging processing algorithms, for applications such as super-resolution and road line detection. Projects included:
 - [Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder](#super-resolution-imaging-via-co-design-of-optical-encoder-and-digital-decoder)
 - [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycv-enabled-lane-line-detection-for-autonomous-driving)
 
@@ -25,14 +25,14 @@ In **graduate** school, my research focused on computational imaging and free-sp
 ## Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder
 *In Progress* 
 
-We aim to co-design a [D2NN](https://www.science.org/doi/full/10.1126/science.aat8084)-based optical encoder integrated with digital neural network decoders to achieve image super-resolution for sensors with limited pixel number. We optimize the synergy between optical encoding and digital decoding process through deep optics framework to enhance resolution beyond the native capacity of image sensors.
+We aim to co-design a [D2NN](https://www.science.org/doi/full/10.1126/science.aat8084)-based optical encoder with digital neural network decoders to achieve image super-resolution for sensors with limited pixel number. We optimize the synergy between optical encoding and digital decoding through end-to-end training (in a deep optics framework) to enhance resolution beyond the native capacity of image sensors.
 
 <br>
 
 ## PhyCV-Enabled Lane Line Detection for Autonomous Driving
-This was an in-class project for UCLA ECE 279AS - Physics, AI, and Algorithmic Imaging, conducted in collaboration with Ash Aggarwal and supervised by Prof. Bahram Jalali. Building on the idea that the [Phase Stretch Transform (PST)](https://en.wikipedia.org/wiki/Phase_stretch_transform) algorithm from [PhyCV](https://github.com/JalaliLabUCLA/phycv) is highly effective for edge detection, we applied it as a preprocessing step to improve deep neural network performance in road line detection for autonomous vehicles. We retrained several models with this preprocessing step and performed a comparative analysis of benchmark models with and without PST preprocessing, focusing on accuracy, robustness, generalizability, and model efficiency. 
+An in-class project for UCLA ECE 279AS - Physics, AI, and Algorithmic Imaging, collaborated with Ash Aggarwal and supervised by Prof. Bahram Jalali. Building on the idea that the [Phase Stretch Transform (PST)](https://en.wikipedia.org/wiki/Phase_stretch_transform) algorithm from [PhyCV](https://github.com/JalaliLabUCLA/phycv) is highly effective for edge detection, we applied it as a pre-processing step to improve deep neural network performance in road line detection for autonomous vehicles. We retrained several models with this preprocessing step and performed a comparative analysis of these models with and without PST preprocessing, focusing on accuracy, robustness, generalizability, and model efficiency. 
 
-The experiment preliminarily demonstrated that preprocessing with PhyCV algorithms is promising in its ability to enhance lane lines and bring out details in low-light environments: 
+Our experiments preliminarily demonstrated that pre-processing with PST algorithms is promising in its ability to improve lane line detection and bring out details in low-light environments: 
 
 <center><img src="/images/PhyCV.png" alt="phycv result" width="800"/></center>
 
