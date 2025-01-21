@@ -6,15 +6,15 @@ author_profile: true
 ---
 {% include base_path %}
 
-*My (current) academic interest lies in the developments of fast, compact, and energy-efficient all-optical/hybrid image processing systems.*
+*One of my academic goals is to develop fast, compact, and energy-efficient all-optical/hybrid image processing systems.*
 
-During **undergraduate** studies, my research spanned photonic crystals, granular materials, image processing, and robotics, where I applied advanced methodologies to solve problems in thermal insulation, biological systems, and automation. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
+During **undergraduate** studies, my research spanned photonic crystals, image processing, granular materials, and robotics. These experiences have shaped my ability to tackle complex technical challenges across multiple disciplines. Key projects included: 
 - [Omnidirectional Reflector for Infrared Radiation Barrier](#omnidirectional-reflector-for-infrared-radiation-barrier)
 - [Root Growth Investigation with X‑ray Computed Tomography](#root-growth-investigation-with-xray-computed-tomography)
 - [Automated Grasping System Using Object Recognition and Depth Sensing](#automated-grasping-system-using-object-recognition-and-depth-sensing)
 
 
-In **graduate** school, I found my biggest research interest and focused on computational imaging and free-space optical computing, working on projects aimed at enhancing imaging systems and optimizing algorithms for real-world applications, such as super-resolution and road line detection. Projects included:
+In **graduate** school, my research focused on computational imaging and free-space optical computing. I worked on projects aimed at enhancing optical systems and imaging processing algorithms, such as super-resolution and road line detection. Projects included:
 - [Super-Resolution Imaging via Co-design of Optical Encoder and Digital Decoder](#super-resolution-imaging-via-co-design-of-optical-encoder-and-digital-decoder)
 - [PhyCV-Enabled Lane Line Detection for Autonomous Driving](#phycv-enabled-lane-line-detection-for-autonomous-driving)
 
